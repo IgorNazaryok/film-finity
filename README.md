@@ -28,14 +28,14 @@ https://github.com/IgorNazaryok/film-finity
 - Site localization
 ---
 ## Example
-[![](./registration_m.png)](./registration.png)
-[![](./autorization_m.png)](./autorization.png)
-[![](./movies_m.png)](./movies.png)
-[![](./serials_m.png)](./serials.png)
-[![](./news_m.png)](./news.png)
-[![](./actors_m.png)](./actors.png)
-[![](./singers_m.png)](./singers_m.png)
-[![](./favorites_m.png)](./favorites.png)
+[![](./image/registration_m.png)](./image/registration.png)
+[![](./image/autorizations_m.png)](./image/autorizations.png)
+[![](./image/movies_m.png)](./image/movies.png)
+[![](./image/serials_m.png)](./image/serials.png)
+[![](./image/news_m.png)](./image/news.png)
+[![](./image/actors_m.png)](./image/actors.png)
+[![](./image/singers_m.png)](./image/singers_m.png)
+[![](./image/favorites_m.png)](./image/favorites.png)
 <br>
 
 ## Authors
