@@ -33,7 +33,7 @@ https://github.com/IgorNazaryok/film-finity
 
 > ### Unauthorized users
 For unauthorized users, only viewing pages of films, TV series, news and pages of stars is available.
-[**Unauthorized users demo.**](https://youtu.be/gv6qO4vIYAA)
+[**Unauthorized users demo.**](https://youtu.be/gv6qO4vIYAA)<br>
 [![](./image/serials_m.png)](https://youtu.be/gv6qO4vIYAA)
 
 > ### Localization
