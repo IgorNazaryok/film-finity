@@ -29,18 +29,17 @@ https://github.com/IgorNazaryok/film-finity
 - Favorites page
 - Site localization
 ---
-## Demo
 
 
 > ### Unauthorized users
 For unauthorized users, only viewing pages of films, TV series, news and pages of stars is available.
-
+[**Unauthorized users demo.**](https://youtu.be/gv6qO4vIYAA)
 [![](./image/serials_m.png)](https://youtu.be/gv6qO4vIYAA)
 
 > ### Localization
 
 The site is localized in three languages ​​- English, Russian and Ukrainian.
-Translated menu, footer, static fields, except for the main content.
+Translated menu, footer, static fields, except for the main content. [**Localization demo.**](https://youtu.be/FIVBEtxHNKs)
 
 
 [![](./image/Localization_m.png)](https://youtu.be/FIVBEtxHNKs)
@@ -48,13 +47,13 @@ Translated menu, footer, static fields, except for the main content.
 > ### Registration & Sing In
 When registering, the fields are validated for filling, the email field is email, the email is unique - there is no user with such an email. If the filling is incorrect, a corresponding message is displayed.
 
-Upon entering the site, a check is made to fill in the fields. If you enter incorrect data, a corresponding message is displayed.
+Upon entering the site, a check is made to fill in the fields. If you enter incorrect data, a corresponding message is displayed. [**Registration & Sing In.**](https://youtu.be/EBFG5TM_b0k)
 
 
 [![](./image/registration_m.png)](https://youtu.be/EBFG5TM_b0k)
 
-> ### Page Movie
-On the Movies page, you can see the available list of movies. You can also view a separate movie card.
+> ### Page Movies
+On the Movies page, you can see the available list of movies. You can also view a separate movie card. [**Page Movie.**](https://youtu.be/J5kFO6vAi6Q)
 
 
 [![](./image/movies_m.png)](./image/movies.png)
@@ -62,7 +61,6 @@ On the Movies page, you can see the available list of movies. You can also view 
 
 > ### Page TV Shows
 On the Serials page, you can get acquainted with the available list of serials.
-
 
 [![](./image/serials_m.png)](./image/serials.png)
 
@@ -80,8 +78,10 @@ The actors' page contains the stars of world cinema. On the page you can find in
 
 > ### Favorite & Reviews
 Favorite & Reviews is a functionality that is available after entering the site. On the registration and review page, filtering by 6 categories and page-by-page panigation are implemented. Additionally, on the review page, a search line for the required news is implemented.
+[**Page Favorite demo**](https://youtu.be/dS2KJ8D23K0) & [**Page Reviews demo.**](https://youtu.be/B2S4Oz2wNWM)
 
 [![](./image/favorites_m.png)](https://youtu.be/dS2KJ8D23K0)
+
 [![](./image/reviews_m.png)](https://youtu.be/B2S4Oz2wNWM)
 
 
